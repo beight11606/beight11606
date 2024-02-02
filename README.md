@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beight11606
 - 👀 I’m interested in Web Development, General Programming, UI/UX Design, Networks, and Databases
-- 🌱 I’m currently learning Python, JavaScript, and HTML
+- 🌱 I’m currently learning Python, JavaScript, Swift, and HTML
 - 📫 How to reach me wbeight@kent.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have been working with computers since I was 6 years old!
